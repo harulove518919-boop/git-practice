@@ -1,0 +1,13 @@
+# 依存関係（npm install で作り直せる）
+node_modules/
+
+# 秘密の情報（APIキーやパスワード）
+.env
+.env.local
+
+# OSが勝手に作るファイル
+.DS_Store
+Thumbs.db
+
+# ログ
+*.log
